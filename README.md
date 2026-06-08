@@ -3,7 +3,7 @@
 
 - Currently **experimenting with ETL**
 
-- Trying to learn more about **Data and more Math**
+- Trying to explore more about **Data Infrastructure and Analytics**
 
 - My projects are available in my Github: [https://github.com/PascalTheConfusedKid](https://github.com/PascalTheConfusedKid)
 

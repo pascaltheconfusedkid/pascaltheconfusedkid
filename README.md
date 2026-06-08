@@ -1,11 +1,9 @@
 <h1 align="center">Sup, I'm Pascal</h1>
 <h3 align="center">I'm just a kid, barely surviving</h3>
 
-- Currently doing a **Movie rater**
+- Currently **experimenting with ETL**
 
-- Trying to learn more about **Python and more Math**
-
-- Watching Sam O Nella [https://www.youtube.com/@SamONellaAcademy](https://www.youtube.com/@SamONellaAcademy)
+- Trying to learn more about **Data and more Math**
 
 - My projects are available in my Github: [https://github.com/PascalTheConfusedKid](https://github.com/PascalTheConfusedKid)
 
